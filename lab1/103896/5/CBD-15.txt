@@ -1,0 +1,26 @@
+**KEYS**
+
+"Users" --> set com todos os utilizadores
+
+"User:<name>_followers" --> set com os seguidores de <name>
+
+"User:<name>_msg" --> lista com as mensagens dos utilizadores que <name> segue
+
+**methods**
+
+
+1) addUser(name) --> adiciona um novo utilizador <name>
+
+2) listUsers() --> lista todos os utilizadores
+
+3) follow(userA,userB) --> adiciona <userA> ao set de seguidores de <userB>
+
+4) storeMsg(user,message) --> adiciona <message> à lista com as mensagens dos seguidores de <user>
+
+5) readMsg(user) --> lê todas as mensagens enviadas pelos utilizadores que <user> segue
+
+6) delUser(user) --> remove <user> de "Users" e elimina "User:<user>_followers" e "User:<user>_msg"
+
+7) delDB() --> elimina tudo
+
+0) exit

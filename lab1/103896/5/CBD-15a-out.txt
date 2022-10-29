@@ -1,0 +1,128 @@
+1- add user
+2- list users
+3- follow user
+4- send a message
+5- Read all messages
+6- delete user
+7- delete DB
+0- Exit
+Enter Your Menu Choice: 1
+new user:maria
+
+
+
+
+1- add user
+2- list users
+3- follow user
+4- send a message
+5- Read all messages
+6- delete user
+7- delete DB
+0- Exit
+Enter Your Menu Choice: 1
+new user:paula
+
+
+
+
+1- add user
+2- list users
+3- follow user
+4- send a message
+5- Read all messages
+6- delete user
+7- delete DB
+0- Exit
+Enter Your Menu Choice: 2
+ALL USERS
+paula
+maria
+
+
+
+
+1- add user
+2- list users
+3- follow user
+4- send a message
+5- Read all messages
+6- delete user
+7- delete DB
+0- Exit
+Enter Your Menu Choice: 3
+follower:paula
+following:maria
+now paula is following maria
+
+
+
+
+1- add user
+2- list users
+3- follow user
+4- send a message
+5- Read all messages
+6- delete user
+7- delete DB
+0- Exit
+Enter Your Menu Choice: 4
+message:ola
+user:maria
+
+
+
+
+1- add user
+2- list users
+3- follow user
+4- send a message
+5- Read all messages
+6- delete user
+7- delete DB
+0- Exit
+Enter Your Menu Choice: 5
+user:paula
+maria: ola
+
+
+
+
+1- add user
+2- list users
+3- follow user
+4- send a message
+5- Read all messages
+6- delete user
+7- delete DB
+0- Exit
+Enter Your Menu Choice: 6
+user:maria
+
+
+
+
+1- add user
+2- list users
+3- follow user
+4- send a message
+5- Read all messages
+6- delete user
+7- delete DB
+0- Exit
+Enter Your Menu Choice: 2
+ALL USERS
+paula
+
+
+
+
+1- add user
+2- list users
+3- follow user
+4- send a message
+5- Read all messages
+6- delete user
+7- delete DB
+0- Exit
+Enter Your Menu Choice: 0
